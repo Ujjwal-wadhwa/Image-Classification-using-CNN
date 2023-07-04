@@ -1,0 +1,16 @@
+FIDAC- Forged Images Detection and Classification
+
+This dataset consists of 2 types of images i.e Authentic and Tampered. 
+There are a total of 1,389 Authentic images and 597 Tampered images. 
+Authentic images are camera clicked images in raw form & tampered images are the one being edited by Adobe Photoshop.
+Different types of forgery techniques like copy-move, splicing, color enhancement, resizing etc have been applied on the tampered images. 
+The main motive of this dataset is to optimize the AI/ML based fake image identification model. 
+Thus, this dataset is used for the R&D of fake image classification. 
+
+Instructions
+-The dataset consists of a total of 1,986 images of  *.png, *.jpg, *.jpeg files formats.
+-The dataset requires a space of 5 GB.
+-The dataset consists of two folders Authentic_Images & Tampered_Images.
+
+ 
+These images are clicked & edited by the authors namely Shraddha Vijay Pawar, Gaurangi Rahul Pradhan and Bhavin Goswami. 
