@@ -7,6 +7,15 @@ The goal of this project is to develop an accurate image classification model to
 ## Dataset
 The dataset used for this project consists of 1200 images, obtained by truncating a larger dataset. The source of the dataset is https://ieee-dataport.org/documents/fidac-forged-images-detection-and-classification.
 
+The dataset used for this project is the FIDAC (Forged Images Detection and Classification) dataset from IEEE Dataport [1]. It is licensed under the Creative Commons Attribution License (CC BY). 
+
+To access the dataset, please visit the official FIDAC dataset page on IEEE Dataport: [FIDAC Dataset](https://ieee-dataport.org/documents/fidac-forged-images-detection-and-classification).
+
+## References
+
+[1] FIDAC (Forged Images Detection and Classification) Dataset. IEEE Dataport. [Online]. Available: [https://ieee-dataport.org/documents/fidac-forged-images-detection-and-classification](https://ieee-dataport.org/documents/fidac-forged-images-detection-and-classification)
+
+
 ## Approach
 ### Normal CNN Model:
 Developed a custom CNN architecture comprising of convolutional, pooling, and fully connected layers.
@@ -23,4 +32,6 @@ The implementation of this project requires the following dependencies:
 
 + Python 3.x
 + TensorFlow
-+ Keras
++ keras
+## License
+The dataset used in this project, FIDAC (Forged Images Detection and Classification), is licensed under the [Creative Commons Attribution License (CC BY)](https://creativecommons.org/licenses/by/4.0/legalcode).
